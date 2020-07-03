@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BDA 650 
-subtitle: @ Devos Graduate School.
+subtitle: Devos Graduate School.
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
