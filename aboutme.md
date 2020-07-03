@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Oluremi Abayomi. I have the following qualities:
 
-- I rock a great mustache
+- I love to teach Statistics.
 - I'm extremely loyal to my family
 
 What else do you need?
