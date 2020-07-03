@@ -4,7 +4,7 @@
 title: Oluremi Itunu Abayomi, Ph.D.  
 
 # Short description of your site
-description: Welcome to my online space!
+description: Meet Dr. Remi online!
 
 # Your name to show in the footer
 author: Oluremi I. Abayomi
@@ -100,7 +100,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # --- Web Statistics Section --- #
