@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Oluremi Abayomi, Ph.D.
-subtitle: Building tomorrow through human interactions.
+subtitle: Laying the bricks of tomorrow's society through student-centered learning and teaching.
 ---
 
-Currently, I am an assistant professor at Northwood University. I teach Mathematics, Statistics, and Data Analytics, based on extensive experience in leveraging quantitative methods for providing veritable insight into underlying data patterns. 
+Currently, I am an Assistant Professor at Northwood University where I teach Mathematics, Statistics, and Data Analytics, based on my extensive experience in leveraging quantitative methods for providing veritable insight into underlying data patterns. 
 
 Entrepreneurial and commercially astute, I am a self-motivated, well-grounded change agent with strong work ethics, original thought, and a life-long passion for continuous learning and meeting set targets through unrelenting analysis, analytics, and collaboration. 
 
@@ -17,7 +17,7 @@ Primary skills:
 - Machine Learning
 - Data Visualization
 - Leadership and Strategy 
-- Academic Expertise
+- Academic Mentoring
 
 ### Technologies: 
 -R, SAS, Python, SQL
