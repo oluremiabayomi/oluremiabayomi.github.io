@@ -16,6 +16,7 @@ navbar-links:
   Resources:
     - R Bookdown Textbooks: "https://bookdown.org/"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn HTML: "https://www.w3schools.com/tags/default.asp"
     - Machine and Deep Learning: "https://www.datasciencecentral.com/profiles/blogs/a-free-self-paced-learning-path-for-machinelearning-and"
   Teaching:
     - Courses: " "
