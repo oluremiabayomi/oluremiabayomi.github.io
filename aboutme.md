@@ -4,7 +4,7 @@ title: Oluremi Abayomi, Ph.D.
 subtitle: Laying the bricks of tomorrow's society through student-centered learning and teaching.
 ---
 
-<img src="/assets/img/OluremiAbayomi.jpg" alt="Dr. Remi" width="24" height="39">
+<img src="/assets/img/OluremiAbayomi.jpg" alt="Dr. Remi" width="70" height="150">
 
 Currently, I am an Assistant Professor at Northwood University where I teach Mathematics, Statistics, and Data Analytics, based on my extensive experience in leveraging quantitative methods for providing veritable insight into underlying data patterns. 
 
