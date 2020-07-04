@@ -14,7 +14,7 @@ author: Oluremi I. Abayomi
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - R Bookdown Textbooks: "https://bookdown.org/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Teaching:
     - Courses: " "
