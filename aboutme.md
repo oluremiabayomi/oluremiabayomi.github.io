@@ -26,5 +26,5 @@ Entrepreneurial and commercially astute, I am a self-motivated, well-grounded ch
 
 My most recent research work(completed dissertation) was in developing a statistical distribution to identify significant predictors variables that impact the physical health status of paid, professional caregivers based on data collected through a questionnaire survey in Canada. 
 
-Please contact me at <p><a href="mailto:remdaniels@yahoo.com">my email</a></p> to find out how I might contribute and add value to your organization.
+Please contact me at <a href="mailto:remdaniels@yahoo.com">my email</a> to find out how I might contribute and add value to your organization.
 
