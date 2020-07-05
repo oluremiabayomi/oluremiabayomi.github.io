@@ -15,11 +15,13 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - R Bookdown Textbooks: "https://bookdown.org/"
+    - Caret: "http://topepo.github.io/caret/index.html"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Learn HTML: "https://www.w3schools.com/tags/default.asp"
     - Machine and Deep Learning: "https://www.datasciencecentral.com/profiles/blogs/a-free-self-paced-learning-path-for-machinelearning-and"
+    - AWS Training: "https://aws.amazon.com/blogs/aws/aws-educate-credits-training-content-and-collaboration-for-students-educators/"
   Teaching:
-    - Courses: " "
+    - Courses: ""
     - Training: " "
   Curriculum Vitae: " "
 
