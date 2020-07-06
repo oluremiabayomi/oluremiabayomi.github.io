@@ -23,7 +23,7 @@ navbar-links:
   Teaching:
     - Courses: ""
     - Training: " "
-  Curriculum Vitae: <iframe src="/assets/img/Abayomi_O_Curriculum_Vitae.pdf"></iframe>
+  Curriculum Vitae: "https://oluremiabayomi.github.io//assets/img/Abayomi_O_Curriculum_Vitae.pdf"
  # "<a href="/assets/img/Abayomi_O_Curriculum_Vitae.pdf">example</a>."
 
 # --- Logo --- #
