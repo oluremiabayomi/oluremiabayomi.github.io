@@ -11,8 +11,8 @@ Dr. Remi has actively taught at all levels of education since August 1998. He sp
 Entrepreneurial and commercially astute, Dr. Remi is a self-motivated, well-grounded change agent with strong work ethics, original thought, and a life-long passion for continuous learning and meeting set targets through unrelenting analysis, analytics, and collaboration.
 
 Oluremi spends his leisure time watching soccer matches and playing the same with his children, reading self-help books, and brainstorming ideas with his wife on best practices on how to help students learn and succeed at the application of concepts taught in class. He enjoys doing this with his wife(who is also a college instructor). Kayaking, skiing, and playing board games are other pastimes of avid interest to him.
-## Primary skills:
 
+## Primary skills:
 - Statistical Modeling
 - Data Analytics/Mining and Decision Science
 - Predictive Modeling
@@ -23,7 +23,7 @@ Oluremi spends his leisure time watching soccer matches and playing the same wit
 - Academic Mentoring
 
 ### Technologies: 
--R, SAS, Python, SQL, Tableau, Power BI
+- R, SAS, Python, SQL, Tableau, Power BI
 
 ### Key Achievements: 
 
