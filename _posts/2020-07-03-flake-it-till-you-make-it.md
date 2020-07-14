@@ -1,10 +1,10 @@
 ---
 layout: post
-title: BDA 650 
-subtitle: Devos Graduate School.
+title: MTH 2310 
+subtitle: Northwood University.
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books, Notes]
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
