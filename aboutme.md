@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Oluremi Abayomi, Ph.D.
+title: Oluremi Abayomi("Remi").
 subtitle: Laying the bricks of tomorrow's society through student-centered learning and teaching.
 ---
 
-Dr. Remi is currently an Assistant Professor at Northwood University where he teaches Mathematics, Statistics, Data Mining, and Predictive Analytics classes, based on extensive experience in leveraging quantitative methods for providing veritable insight into underlying data patterns. Oluremi completed his Doctoral degree in Statistics and Analytics after his Master of Arts degree in Mathematics, both at Central Michigan University. Prior to that, he bagged combined honors, Bachelor of Science, in Mathematics and Statistics from the University of Lagos, Nigeria. Before that, he initially completed a National Diploma(Associates) degree in Statistics at The Federal Polytechnic, Ede both in different south-western parts of Nigeria.
+Dr. Remi is currently an Assistant Professor at Northwood University where he teaches Mathematics, Statistics, Data Mining, and Predictive Analytics classes, drawing on his extensive experience in leveraging quantitative methods for providing veritable insight into underlying data patterns. Oluremi completed his Doctoral degree in Statistics and Analytics after his Master of Arts degree in Mathematics, both at Central Michigan University. Prior to that, he bagged combined honors, Bachelor of Science, in Mathematics and Statistics from the University of Lagos, Nigeria. Before that, he initially completed a National Diploma(Associates) degree in Statistics at The Federal Polytechnic, Ede both in different south-western parts of Nigeria.
 
 Dr. Remi has actively taught at all levels of education since August 1998. He spent his first seven years as a teacher in an elementary school as a paraprofessional educator. Afterward, he went back to school for his Associates and Bachelors' degrees. While completing his Bachelor's degree, he was a business owner(MathRescue Tutors) in Lagos, Nigeria where he ran his home tutoring services that catered to the academic needs of students of all age groups in salvaging the struggling mathematics population. After his Bachelor's degree, he proceeded to complete the National Youth Service Corps program required of all Nigerians graduating from a tertiary institution under 30 years of age. As he progressed in this program, he applied for and secured a graduate assistantship to complete his Master of Arts and Doctoral degree at Central Michigan University.
 
