@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTH 4100: Data Mining for Business Decisions
+title: MTH 4100, Data Mining for Business Decisions
 subtitle: Data Mining for Business Decisions.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

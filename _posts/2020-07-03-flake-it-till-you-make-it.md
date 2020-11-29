@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTH 2310: Statistics I
+title: MTH 2310, Statistics I
 subtitle: Northwood University.
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg

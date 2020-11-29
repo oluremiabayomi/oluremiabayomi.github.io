@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oluremi Abayomi("Remi").
+title: Oluremi Abayomi.
 subtitle: Laying the bricks of tomorrow's society through student-centered learning and teaching.
 ---
 
