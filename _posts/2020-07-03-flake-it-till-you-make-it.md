@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTH 2310, Statistics I
-subtitle: Northwood University.
+subtitle: Traditional Campus, Northwood University.
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [books, Notes]

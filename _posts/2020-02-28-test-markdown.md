@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTH 4100, Data Mining for Business Decisions
-subtitle: Data Mining for Business Decisions.
+subtitle: Traditional Campus, Northwood University.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Notes]
